@@ -1,0 +1,36 @@
+*{
+	margin:0%;
+	padding:0%;
+	font-family:sans-serif;
+	
+}
+.card{
+	display:flex;
+	margin-top:22px;
+	margin:22px;
+}
+.left img{
+	width:365px;
+	margin:32px;
+	
+}
+.card .img img{
+	width:75px;
+	margin-left:300px;
+	list-style-image:700px;
+}
+.card .right {
+	margin-top:22px;
+	
+}
+.right h3{
+	margin-top:22px;
+	
+}
+
+
+
+
+
+
+
